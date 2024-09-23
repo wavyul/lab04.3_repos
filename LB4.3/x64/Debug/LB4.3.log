@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\project\LB4.3\LB4.3\main.cpp(7,27): warning C4101: 'y': unreferenced local variable
+D:\project\LB4.3\LB4.3\main.cpp(8,12): warning C4101: 'g': unreferenced local variable
+  LB4.3.vcxproj -> D:\project\LB4.3\x64\Debug\LB4.3.exe
